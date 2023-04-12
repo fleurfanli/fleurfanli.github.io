@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Li Fan"
 title_separator          : "-"
 name                     : &name "Li Fan"
-description              : &description "Senior Math & Computer Science double major @Haverford College, MSE CIS stuednt at the University of Pennsylvania"
+description              : &description "Royal Flush"
 url                      : https://fleurfanli.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "fleurfanli.github.io"
@@ -80,10 +80,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
-  avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  name             : "Li Fan"
+  avatar           : "profile.jpg"
+  bio              : "Senior Math & Computer Science double major @Haverford College, MSE CIS stuednt at the University of Pennsylvania"
+  location         : "Haverford, PA"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "http://yourfullgooglescholarurl.com"
