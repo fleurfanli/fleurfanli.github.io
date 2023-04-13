@@ -1,6 +1,6 @@
 ---
 title: "May Day - 2022"
-excerpt: "Me and my friends after May Day's Maude Latour concert<br/><img src='/images/500x300.png'>"
+excerpt: "My friends and I after May Day's Maude Latour concert<br/><img src='/images/500x300.png'>"
 collection: portfolio
 ---
 
