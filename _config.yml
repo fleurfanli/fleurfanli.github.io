@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Li Fan"
-  avatar           : "myProfile.jpg"
+  avatar           : "myProfile2.jpg"
   bio              : "Senior Math & Computer Science double major @Haverford College, MSE CIS stuednt at the University of Pennsylvania"
   location         : "Haverford, PA"
   employer         :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "https://github.com/fleurfanli?tab=repositories"
+  github           : "https://github.com/fleurfanli"
   google_plus      :
   keybase          :
   instagram        :
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : #"replacethistwitterhandle"
   vine             :
   weibo            :
   xing             :
