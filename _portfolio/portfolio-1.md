@@ -1,6 +1,6 @@
 ---
 title: "May Day - 2022"
-excerpt: "Got a hug and a signature at May Day's Maude Latour concert<br/><img src='/images/maude.jpg'>"
+excerpt: "Got a hug and a signature at May Day's Maude Latour concert<br/><img src='/images/pura_vida//maude.jpg'>"
 collection: portfolio
 ---
 
