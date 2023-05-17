@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* B.S. in Mathematics and Computer Science, Haverford College, 2023 (expected)
+* B.S. in Mathematics and Computer Science, Haverford College, 2023 
 <!-- * M.S. in Jekyll, GitHub University, 2014 -->
 <!-- * Ph.D in Version Control Theory, GitHub University, 2018 (expected) -->
 

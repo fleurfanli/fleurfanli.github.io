@@ -1,5 +1,5 @@
 ---
-title: "May Day - 2022"
+title: "May Day - May, 2022"
 excerpt: "Got a hug and a signature at May Day's Maude Latour concert<br/><img src='/images/pura_vida/maude.jpg' width='350'>"
 collection: portfolio
 ---
