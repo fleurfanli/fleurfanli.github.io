@@ -11,13 +11,13 @@ redirect_from:
 
 ## Education
 ======
-* Ph.D in Statistical Science, Duke University, 2023 - Present
-* B.S. in Mathematics and Computer Science, Haverford College, 2023 
+* Ph.D in Statistical Science, **Duke University**, 2023 - Present
+* B.S. in Mathematics and Computer Science, **Haverford College**, 2023 
   * Magna Cum Laude
   * High Honors in Computer Science and Mathematics
   * Class of 1896 Prize in Mathematics
   * Frances Velay Womens’ Science Research Fellowship
-  * Submatriculation in MSE CIS at the University of Pennsylvania
+  * Submatriculation in MSE CIS at the **University of Pennsylvania**
   * Study abroad in Budapest Semesters in Mathematics
 <!-- * M.S. in Jekyll, GitHub University, 2014 -->
 <!-- * Ph.D in Version Control Theory, GitHub University, 2018 (expected) -->
