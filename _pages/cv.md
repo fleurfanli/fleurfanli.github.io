@@ -9,17 +9,18 @@ redirect_from:
 
 {% include base_path %}
 
-### Education
+# Education
 ======
 * Ph.D in Statistical Science, Duke University, 2023 - Present
 * B.S. in Mathematics and Computer Science, Haverford College, 2023 
   * High Honors in Computer Science and Mathematics
   * Magna Cum Laude
-  * Submatriculation in MSE CIS at the University of Pennsylvania during undergraduate studies
+  * Submatriculation in MSE CIS at the University of Pennsylvania
+  * Study abroad in Budapest Semesters in Mathematics
 <!-- * M.S. in Jekyll, GitHub University, 2014 -->
 <!-- * Ph.D in Version Control Theory, GitHub University, 2018 (expected) -->
 
-### Industry experience
+# Industry experience
 ======
 * Summer 2023: Software Development Engineer Intern 
   * Amazon Web Services (AWS) - AI Lex DataHub
