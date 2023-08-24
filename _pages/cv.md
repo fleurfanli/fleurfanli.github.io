@@ -13,22 +13,21 @@ Education
 ======
 * Ph.D in Statistical Science, Duke University, 2023 - Present
 * B.S. in Mathematics and Computer Science, Haverford College, 2023 
+  * High Honors in Computer Science and Mathematics
+  * Magna Cum Laude
+  * Submatriculation in MSE CIS at the University of Pennsylvania during undergraduate studies
 <!-- * M.S. in Jekyll, GitHub University, 2014 -->
 <!-- * Ph.D in Version Control Theory, GitHub University, 2018 (expected) -->
 
-<!-- Work experience
+Industry experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Summer 2023: Software Development Engineer Intern 
+  * Amazon Web Services (AWS) - AI Lex DataHub
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Summer 2022: Software Development Engineer Intern 
+  * Amazon Web Services (AWS) - AI Lex NLU
   
-Skills
+<!-- Skills
 ======
 * Skill 1
 * Skill 2
