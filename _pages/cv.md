@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-# Education
+## Education
 ======
 * Ph.D in Statistical Science, Duke University, 2023 - Present
 * B.S. in Mathematics and Computer Science, Haverford College, 2023 
@@ -20,7 +20,7 @@ redirect_from:
 <!-- * M.S. in Jekyll, GitHub University, 2014 -->
 <!-- * Ph.D in Version Control Theory, GitHub University, 2018 (expected) -->
 
-# Industry experience
+## Industry experience
 ======
 * Summer 2023: Software Development Engineer Intern 
   * Amazon Web Services (AWS) - AI Lex DataHub
