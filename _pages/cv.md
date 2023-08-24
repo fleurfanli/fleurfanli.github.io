@@ -20,13 +20,15 @@ redirect_from:
 <!-- * M.S. in Jekyll, GitHub University, 2014 -->
 <!-- * Ph.D in Version Control Theory, GitHub University, 2018 (expected) -->
 
-## Industry experience
+## Industry Experience
 ======
 * Summer 2023: Software Development Engineer Intern 
   * Amazon Web Services (AWS) - AI Lex DataHub
+  * Schema validation and API metrics dashboards
 
 * Summer 2022: Software Development Engineer Intern 
   * Amazon Web Services (AWS) - AI Lex NLU
+  * Automation workflows of data selection and annotation tasks
   
 <!-- Skills
 ======
