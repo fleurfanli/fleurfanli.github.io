@@ -10,20 +10,20 @@ redirect_from:
 {% include base_path %}
 
 ## Education
-======
+=========
 * Ph.D in Statistical Science, **Duke University**, 2023 - Present
 * B.S. in Mathematics and Computer Science, **Haverford College**, 2023 
   * Magna Cum Laude
   * High Honors in Computer Science and Mathematics
-  <!-- * Class of 1896 Prize in Mathematics
-  * Frances Velay Womens’ Science Research Fellowship -->
+  <!-- * Class of 1896 Prize in Mathematics -->
+  <!-- * Frances Velay Womens’ Science Research Fellowship -->
   * Submatriculation in MSE CIS at the **University of Pennsylvania**
   * Study abroad in Budapest Semesters in Mathematics
 <!-- * M.S. in Jekyll, GitHub University, 2014 -->
 <!-- * Ph.D in Version Control Theory, GitHub University, 2018 (expected) -->
 
 ## Industry Experience
-======
+===================
 * Summer 2023: Software Development Engineer Intern 
   * Amazon Web Services (AWS) - AI Lex DataHub
   * Schema validation and API metrics dashboards
